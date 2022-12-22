@@ -33,6 +33,11 @@
 <a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
 <img align="left" alt"LinkedIn" width="100px"  src="https://user-images.githubusercontent.com/47158701/209136685-96a865a3-ff20-43e7-bd53-2c646ce13b6a.png" style="padding-right:10px;" />
 </a>
+<a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
+  <img align="left" alt"LinkedIn" width="100px"  src="https://user-images.githubusercontent.com/47158701/209136685-96a865a3-ff20-43e7-bd53-2c646ce13b6a.png](https://user-images.githubusercontent.com/47158701/209136909-8df877c7-0202-45a9-aecf-e25240883c1a.png" style="padding-right:10px;" />
+  </a>
+
+
 
 <!--
 **JanBlahout/JanBlahout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
