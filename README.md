@@ -32,10 +32,12 @@
 <img align="left" alt"Instagram" width="100px"  src="https://user-images.githubusercontent.com/47158701/209137294-5630e5e5-975b-4ec6-81c1-b614d4ae37d8.png" />
 </a>
 </br>
+</br>
+</br>
 
 #
 
-### Get in touch with me 🤝
+
 
 <!--
 **JanBlahout/JanBlahout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
