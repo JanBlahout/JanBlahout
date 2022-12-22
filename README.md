@@ -21,11 +21,11 @@
 </br>
 
 
----
 
 
 
-### Get in touch with me:
+
+### Get in touch with me
 
 
 
@@ -37,6 +37,8 @@
   <img align="left" alt"LinkedIn" width="100px"  src="https://user-images.githubusercontent.com/47158701/209137294-5630e5e5-975b-4ec6-81c1-b614d4ae37d8.png" style="padding-right:10px;" />
   </a>
 
+</br>
+---
 <!--
 **JanBlahout/JanBlahout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
