@@ -1,8 +1,8 @@
 # Jan Blahout
 
-**`Web Developer`**
+**My coding journey...🛣**
 
-Some text goes here
+
 
 ---
 ### Tech Stack
@@ -22,12 +22,7 @@ Some text goes here
 
 <a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
 <img align="left" alt"LinkedIn" width="260px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />
-          </a>
-          
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jan-blahout-230b29100/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/jb.wiqi/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/jb.wiqi/#gh-dark-mode-only)
+</a>
 
 <!--
 **JanBlahout/JanBlahout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
