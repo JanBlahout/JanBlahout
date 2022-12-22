@@ -29,7 +29,7 @@
 <img align="left" alt"LinkedIn" width="100px"  src="https://user-images.githubusercontent.com/47158701/209137390-71b5436f-efd8-4b40-8dce-44ab0f9d3a9c.png" style="padding-right:10px;" />
 </a>
 <a href="https://www.instagram.com/jb.wiqi/" target="_blank">
-<img align="left" alt"LinkedIn" width="100px"  src="https://user-images.githubusercontent.com/47158701/209137294-5630e5e5-975b-4ec6-81c1-b614d4ae37d8.png" style="padding-right:10px;" />
+<img align="left" alt"Instagram" width="100px"  src="https://user-images.githubusercontent.com/47158701/209137294-5630e5e5-975b-4ec6-81c1-b614d4ae37d8.png" />
 </a>
 </br>
 
