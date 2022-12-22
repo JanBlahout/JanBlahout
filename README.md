@@ -2,10 +2,11 @@
 
 ... Jan and I am self-taught developer from Czech Republic. After 4 years of application support I have decided to take my career to the next level and coding was the right way. In July of 2021 I started learning JavaScript. It didnt take too long and I was hooked. I mainly code in React and trying to expand my knowledge with other modern web frameworks. Now I am looking for an opportunity to learn an grow.
 
---
 
-### My tech stack 👨‍💻
+
 ---
+### My tech stack 👨‍💻
+
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
