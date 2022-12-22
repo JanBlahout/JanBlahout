@@ -30,7 +30,7 @@
 
 
 <a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
-<img align="left" alt"LinkedIn" width="260px" height="250px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt"LinkedIn" width="150px"  src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg](https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vDubugf4CJIAX-rdXmU&_nc_ht=scontent-prg1-1.xx&oh=00_AfAN9FwEOJ0N8L64RAoSjr4ZHXzrseAV_uBzMz2pDBXNaw&oe=63A87EEB)" style="padding-right:10px;" />
 </a>
 
 <!--
