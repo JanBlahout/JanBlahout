@@ -19,7 +19,11 @@
 
 ---
 
+
+
 ### Get in touch with me:
+
+
 
 <a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
 <img align="left" alt"LinkedIn" width="260px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />
