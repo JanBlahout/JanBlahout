@@ -20,7 +20,9 @@ Some text goes here
 
 ### Get in touch with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jan-blahout-230b29100/#gh-light-mode-only)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+          
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jan-blahout-230b29100/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/jb.wiqi/#gh-light-mode-only)
