@@ -29,8 +29,9 @@
 
 
 
+
 <a href="https://www.linkedin.com/in/jan-blahout-230b29100/" target="_blank">
-<img align="left" alt"LinkedIn" width="150px"  src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=vDubugf4CJIAX-rdXmU&_nc_ht=scontent-prg1-1.xx&oh=00_AfAN9FwEOJ0N8L64RAoSjr4ZHXzrseAV_uBzMz2pDBXNaw&oe=63A87EEB" style="padding-right:10px;" />
+<img align="left" alt"LinkedIn" width="150px"  src="https://user-images.githubusercontent.com/47158701/209136685-96a865a3-ff20-43e7-bd53-2c646ce13b6a.png" style="padding-right:10px;" />
 </a>
 
 <!--
