@@ -1,6 +1,6 @@
-# Hi, my name is... 👋
+# Hi, I'm Jan 👋
 
-... Jan and I am self-taught developer from Czech Republic. After 4 years of application support I have decided to take my career to the next level and coding was the right way. In July of 2021 I started learning JavaScript. It didnt take too long and I was hooked. I mainly code in React and trying to expand my knowledge with other modern web frameworks. Now I am looking for an opportunity to learn an grow.
+Software engineer based in Prague. I spent four years in application support, started learning JavaScript in 2021, and got hooked. These days I work mostly in TypeScript on backend systems, with a growing focus on AI-assisted development.
 
 
 
